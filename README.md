@@ -1,4 +1,2 @@
 # Computer-Vision-YOLOv3
-Python 3.8.3
-Jupyter Notebook
-Using OpenCV and Numpy
+Download the weights file from https://pjreddie.com/media/files/yolov3.weights
